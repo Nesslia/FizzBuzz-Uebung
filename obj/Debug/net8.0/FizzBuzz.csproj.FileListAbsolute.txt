@@ -1,0 +1,15 @@
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\vjent\source\repos\Uebung-24-2\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
